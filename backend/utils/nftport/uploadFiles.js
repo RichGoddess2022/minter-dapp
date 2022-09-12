@@ -1,7 +1,7 @@
 const FormData = require('form-data');
 const fetch = require('node-fetch');
 const path = require("path")
-const basePath = process.cwd();
+const basePath = __dirname;
 const fs = require("fs");
 fs.readdirSync('${basePath}/build/images').
 forEach(file => {
