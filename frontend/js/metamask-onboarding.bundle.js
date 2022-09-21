@@ -2287,7 +2287,7 @@ var MetaMaskOnboarding = (function () {
   var EXTENSION_DOWNLOAD_URL = {
       CHROME: 'https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn',
       FIREFOX: 'https://addons.mozilla.org/firefox/addon/ether-metamask/',
-      DEFAULT: 'https://metamask.io',
+      DEFAULT: 'https://metamask.app.link/dapp/www.richgoddess.io/',
   };
   // sessionStorage key
   var REGISTRATION_IN_PROGRESS = 'REGISTRATION_IN_PROGRESS';
